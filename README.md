@@ -1,0 +1,1 @@
+# VSCode.Extension.MS-CEINTL.vscode-language-pack-zh-hans
